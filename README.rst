@@ -104,7 +104,7 @@ Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
    :height: 15px
 .. |rt-Neovim| replace:: |ic-Neovim| Neovim
 .. |ic-Neovim| image:: assets/simpleicons/Neovim.svg
-   :height: 16px
+   :height: 12px
 
 Where you can find me
 =====================
