@@ -95,11 +95,17 @@ Preferred tools
 
 Operating system: |rt-fedora|, but I can use most other distros and Windows without issue.
 
+Editor: |rt-Neovim|
+
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
    :height: 15px
+.. |rt-Neovim| replace:: |ic-Neovim| Neovim
+.. |ic-Neovim| image:: assets/simpleicons/Neovim.png
+   :height: 16px
+   :width: 16px
 
 Where you can find me
 =====================
