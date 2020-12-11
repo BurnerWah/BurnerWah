@@ -95,9 +95,6 @@ Preferred tools
 
 Operating system: |rt-fedora|, but I can use most other distros and Windows without issue.
 
-.. image:: https://img.shields.io/badge/Editor-Neovim-black?style=flat-square&logo=neovim
-   :alt: Editor (general): Neovim
-
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
