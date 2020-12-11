@@ -98,6 +98,6 @@ I'm around on the internet.
 .. |Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
    :alt: Twitch: jadenpleasants
 .. _Twitch: https://www.twitch.tv/jadenpleasants
-.. |Twitter| image:: https://img.shields.io/badge/-@YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&labelColor=black
+.. |Twitter| image:: https://img.shields.io/badge/-@YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&logoColor=white
    :alt: Twitter: @YaBoiBurner
 .. _Twitter: https://twitter.com/YaBoiBurner
