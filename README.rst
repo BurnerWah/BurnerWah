@@ -95,9 +95,20 @@ Where you can find me
 
 I'm around on the internet.
 
+|My-Discord|
+|My-GitHub|_
+|My-GitLab|_
 |Twitch|_
 |Twitter|_
 
+.. |My-Discord| image:: https://img.shields.io/badge/-YaBoiBurner%234564-black?style=flat-square&logo=discord
+   :alt: Discord: YaBoiBurner#4564
+.. |My-GitHub| image:: https://img.shields.io/badge/-YaBoiBurner-181717?style=flat-square&logo=github
+   :alt: GitHub: @YaBoiBurner
+.. _My-GitHub: https://github.com/YaBoiBurner
+.. |My-GitLab| image:: https://img.shields.io/badge/-YaBoiBurner-black?style=flat-square&logo=gitlab
+   :alt: GitLab: @YaBoiBurner
+.. _My-GitLab: https://gitlab.com/YaBoiBurner
 .. |Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
    :alt: Twitch: jadenpleasants
 .. _Twitch: https://www.twitch.tv/jadenpleasants
