@@ -90,6 +90,14 @@ I'd rather not use:
 .. |VSCode| image:: https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code
    :alt: Visual Studio Code
 
+Preferred tools
+===============
+
+My daily driver OS is |rt-Fedora|, with a fallback Windows 10 Install for programs that require it.
+
+.. |rt-Fedora| replace:: |ic-Fedora| Fedora
+.. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
+
 Where you can find me
 =====================
 
