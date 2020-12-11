@@ -86,3 +86,18 @@ I'd rather not use:
    :alt: Shell (preferably fish but I can use bash)
 .. |VSCode| image:: https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code
    :alt: Visual Studio Code
+
+Where you can find me
+=====================
+
+I'm around on the internet.
+
+|Twitch|_
+|Twitter|_
+
+.. |Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
+   :alt: Twitch: jadenpleasants
+.. _Twitch: https://www.twitch.tv/jadenpleasants
+.. |Twitter| image:: https://img.shields.io/badge/-@YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&labelColor=black
+   :alt: Twitter: @YaBoiBurner
+.. _Twitter: https://twitter.com/YaBoiBurner
