@@ -97,6 +97,7 @@ My daily driver OS is |rt-Fedora|, with a fallback Windows 10 Install for progra
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
+   :height: 50px
 
 Where you can find me
 =====================
