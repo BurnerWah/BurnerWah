@@ -22,7 +22,8 @@ Technologies
 
 I'm fairly comfortable with:
 
-|Git| |Java|
+|Git|
+|Java|
 
 I'm somewhat comfortable with:
 
