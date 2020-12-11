@@ -93,17 +93,35 @@ I'd rather not use:
 Preferred tools
 ===============
 
-Operating system: |rt-fedora|, but I can use most other distros and Windows without issue.
+Operating system: |rt-Fedora|, but I can use most other distros and Windows without issue.
 
-Editor: |rt-Neovim|
+Desktop Environment: |rt-GNOME| under X11 (for NVidia support).
+
+Editor: |rt-Neovim| (default), |rt-VSCode| (web development).
+
+Browser: |rt-Firefox| (default), |rt-Brave| (if needed).
+
+Shell: `fish <https://fishshell.com/>`_ (interactive), ``zsh`` (login & compatibility).
 
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
+.. |rt-Brave| replace:: |ic-Brave| Brave
+.. |ic-Brave| image:: assets/simpleicons/brave.svg
+   :height: 12px
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. |ic-Fedora| image:: assets/simpleicons/fedora.svg
    :height: 12px
+.. |rt-Firefox| replace:: |ic-Firefox| Firefox
+.. |ic-Firefox| image:: assets/simpleicons/firefoxbrowser.svg
+   :height: 12px
+.. |rt-GNOME| replace:: |ic-GNOME| GNOME
+.. |ic-GNOME| image:: assets/simpleicons/gnome.svg
+   :height: 12px
 .. |rt-Neovim| replace:: |ic-Neovim| Neovim
 .. |ic-Neovim| image:: assets/simpleicons/neovim.svg
+   :height: 12px
+.. |rt-VSCode| replace:: |ic-VSCode| VSCode
+.. |ic-VSCode| image:: assets/simpleicons/visualstudiocode.svg
    :height: 12px
 
 Where you can find me
