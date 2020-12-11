@@ -93,7 +93,12 @@ I'd rather not use:
 Preferred tools
 ===============
 
-My daily driver OS is |rt-Fedora|, with a fallback Windows 10 Install for programs that require it.
+Operating system: |rt-fedora|, but I can use most other distros and Windows without issue.
+
+.. image:: https://img.shields.io/badge/Editor-Neovim-black?style=flat-square&logo=neovim
+   :alt: Editor (general): Neovim
+
+Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
