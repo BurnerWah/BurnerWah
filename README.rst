@@ -36,6 +36,7 @@ I'm somewhat comfortable with:
 
 |Android Studio|
 |GitHub|
+|GitLab|
 |JavaScript|
 |NodeJS|
 
@@ -60,6 +61,8 @@ I'd rather not use:
    :alt: Git
 .. |GitHub| image:: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github
    :alt: GitHub
+.. |GitLab| image:: https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab
+   :alt: GitLab
 .. |HTML5| image:: https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5
    :alt: HTML5
 .. |IntelliJ IDEA| image:: https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea
