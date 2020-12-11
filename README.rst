@@ -20,7 +20,7 @@ Stats
 Technologies
 ============
 
-I'm fairly comfortable with:
+I'm comfortable with:
 
 |CSS3|
 |Git|
@@ -76,7 +76,7 @@ I'd rather not use:
 .. |Lua| image:: https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua
    :alt: Lua
 .. |Markdown| image:: https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown
-   :alt: Markdown (mostly GitHub flavored)
+   :alt: Markdown (GitHub flavored)
 .. |Neovim| image:: https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white
    :alt: Neovim
 .. |NodeJS| image:: https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js
@@ -98,8 +98,8 @@ I'm around on the internet.
 |My-Discord|
 |My-GitHub|_
 |My-GitLab|_
-|Twitch|_
-|Twitter|_
+|My-Twitch|_
+|My-Twitter|_
 
 .. |My-Discord| image:: https://img.shields.io/badge/-YaBoiBurner%234564-black?style=flat-square&logo=discord
    :alt: Discord: YaBoiBurner#4564
@@ -109,9 +109,9 @@ I'm around on the internet.
 .. |My-GitLab| image:: https://img.shields.io/badge/-YaBoiBurner-black?style=flat-square&logo=gitlab
    :alt: GitLab: @YaBoiBurner
 .. _My-GitLab: https://gitlab.com/YaBoiBurner
-.. |Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
-   :alt: Twitch: jadenpleasants
-.. _Twitch: https://www.twitch.tv/jadenpleasants
-.. |Twitter| image:: https://img.shields.io/badge/-@YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+.. |My-Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
+   :alt: Twitch: @jadenpleasants
+.. _My-Twitch: https://www.twitch.tv/jadenpleasants
+.. |My-Twitter| image:: https://img.shields.io/badge/-YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&logoColor=white
    :alt: Twitter: @YaBoiBurner
-.. _Twitter: https://twitter.com/YaBoiBurner
+.. _My-Twitter: https://twitter.com/YaBoiBurner
