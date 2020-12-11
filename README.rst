@@ -42,9 +42,14 @@ I'm somewhat comfortable with:
 
 I'm learning:
 
+|CMake|
+|Golang|
+|Gradle|
 |Kotlin|
 |Lua|
+|NPM|
 |Python|
+|Ruby|
 |Rust|
 
 I'd rather not use:
@@ -55,6 +60,8 @@ I'd rather not use:
    :alt: Android Studio
 .. |C++| image:: https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B
    :alt: C++
+.. |CMake| image:: https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake
+   :alt: CMake
 .. |CSS3| image:: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3
    :alt: CSS3
 .. |Git| image:: https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
@@ -63,6 +70,10 @@ I'd rather not use:
    :alt: GitHub
 .. |GitLab| image:: https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab
    :alt: GitLab
+.. |Golang| image:: https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go
+   :alt: Golang
+.. |Gradle| image:: https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle
+   :alt: Gradle
 .. |HTML5| image:: https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5
    :alt: HTML5
 .. |IntelliJ IDEA| image:: https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea
@@ -81,8 +92,12 @@ I'd rather not use:
    :alt: Neovim
 .. |NodeJS| image:: https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js
    :alt: Node.js
+.. |NPM| image:: https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm
+   :alt: NPM
 .. |Python| image:: https://img.shields.io/badge/-Python-black?style=flat-square&logo=python
    :alt: Python
+.. |Ruby| image:: https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby
+   :alt: Ruby
 .. |Rust| image:: https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust
    :alt: Rust
 .. |Shell| image:: https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white
