@@ -95,7 +95,7 @@ Preferred tools
 
 Operating system: |rt-fedora|, but I can use most other distros and Windows without issue.
 
-Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`
+Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
