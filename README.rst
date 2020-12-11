@@ -108,34 +108,46 @@ I'd rather not use:
 Preferred tools
 ===============
 
-Operating system: |rt-Fedora|, but I can use most other distros and Windows without issue.
+Operating system: |rt-Fedora|_, but I can use most other distros and Windows without issue.
 
-Desktop Environment: |rt-GNOME| under X11 (for NVidia support).
+Desktop Environment: |rt-GNOME|_ under X11 (for NVidia support).
 
-Editor: |rt-Neovim| (default), |rt-VSCode| (web development).
+Editor: |rt-Neovim|_ (default), |rt-VSCode|_ (web development).
 
-Browser: |rt-Firefox| (default), |rt-Brave| (if needed).
+Browser: |rt-Firefox|_ (default), |rt-Brave|_ (if needed).
 
-Shell: `fish <https://fishshell.com/>`_ (interactive), ``zsh`` (login & compatibility).
+Shell: `fish <https://fishshell.com/>`_ (interactive), `zsh <https://www.zsh.org/>`_ (login & compatibility).
 
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
+Code style: |rt-Prettier|_
+
 .. |rt-Brave| replace:: |ic-Brave| Brave
+.. _rt-Brave: https://brave.com/
 .. |ic-Brave| image:: assets/simpleicons/brave.svg
    :height: 12px
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
+.. _rt-Fedora: https://getfedora.org/
 .. |ic-Fedora| image:: assets/simpleicons/fedora.svg
    :height: 12px
 .. |rt-Firefox| replace:: |ic-Firefox| Firefox
+.. _rt-Firefox: https://www.mozilla.org/en-US/firefox/new/
 .. |ic-Firefox| image:: assets/simpleicons/firefoxbrowser.svg
    :height: 12px
 .. |rt-GNOME| replace:: |ic-GNOME| GNOME
+.. _rt-GNOME: https://www.gnome.org/
 .. |ic-GNOME| image:: assets/simpleicons/gnome.svg
    :height: 12px
 .. |rt-Neovim| replace:: |ic-Neovim| Neovim
+.. _rt-Neovim: https://neovim.io/
 .. |ic-Neovim| image:: assets/simpleicons/neovim.svg
    :height: 12px
+.. |rt-Prettier| replace:: |ic-Prettier| Prettier
+.. _rt-Prettier: https://prettier.io/
+.. |ic-Prettier| image:: assets/simpleicons/prettier.svg
+   :height: 12px
 .. |rt-VSCode| replace:: |ic-VSCode| VSCode
+.. _rt-VSCode: https://code.visualstudio.com/
 .. |ic-VSCode| image:: assets/simpleicons/visualstudiocode.svg
    :height: 12px
 
