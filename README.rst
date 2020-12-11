@@ -103,7 +103,8 @@ Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 .. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
    :height: 15px
 .. |rt-Neovim| replace:: |ic-Neovim| Neovim
-.. |ic-Neovim| image:: assets/simpleicons/Neovim_small.png
+.. |ic-Neovim| image:: assets/simpleicons/Neovim.svg
+   :height: 16px
 
 Where you can find me
 =====================
