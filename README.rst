@@ -100,8 +100,8 @@ Editor: |rt-Neovim|
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
-.. |ic-Fedora| image:: https://simpleicons.org/icons/fedora.svg
-   :height: 15px
+.. |ic-Fedora| image:: assets/simpleicons/fedora.svg
+   :height: 12px
 .. |rt-Neovim| replace:: |ic-Neovim| Neovim
 .. |ic-Neovim| image:: assets/simpleicons/neovim.svg
    :height: 12px
