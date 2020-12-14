@@ -20,9 +20,11 @@ Stats
 .. image:: https://github-readme-stats.vercel.app/api?username=YaBoiBurner&show_icons=true&theme=radical
    :alt: Jaden's github stats
    :align: left
+   :target: https://github.com/anuraghazra/github-readme-stats
 .. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=YaBoiBurner&layout=compact&langs_count=10&theme=radical
    :alt: Top Languages
    :align: right
+   :target: https://github.com/anuraghazra/github-readme-stats
 
 Technologies
 ============
