@@ -43,6 +43,7 @@ I'm somewhat comfortable with:
 I'm learning:
 
 |CMake|
+|Deno|
 |Golang|
 |Gradle|
 |Kotlin|
@@ -66,6 +67,8 @@ I'd rather not use:
    :alt: CMake
 .. |CSS3| image:: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3
    :alt: CSS3
+.. |Deno| image:: https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno
+   :alt: Deno
 .. |Git| image:: https://img.shields.io/badge/-Git-black?style=flat-square&logo=git
    :alt: Git
 .. |GitHub| image:: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github
