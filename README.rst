@@ -23,9 +23,10 @@ I'm comfortable with:
 
 |CSS3|
 |Git|
-|IntelliJ IDEA|
 |HTML5|
+|IntelliJ IDEA|
 |Java|
+|Lua|
 |Markdown|
 |Neovim|
 |Shell|
@@ -45,11 +46,13 @@ I'm learning:
 |Golang|
 |Gradle|
 |Kotlin|
-|Lua|
 |NPM|
+|Podman|
+|pre-commit|
 |Python|
 |Ruby|
 |Rust|
+|TypeScript|
 
 I'd rather not use:
 
@@ -93,6 +96,10 @@ I'd rather not use:
    :alt: Node.js
 .. |NPM| image:: https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm
    :alt: NPM
+.. |Podman| image:: https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman
+   :alt: Podman
+.. |pre-commit| image:: https://img.shields.io/badge/-pre--commit-000000?style=flat-square&logo=pre-commit
+   :alt: pre-commit
 .. |Python| image:: https://img.shields.io/badge/-Python-black?style=flat-square&logo=python
    :alt: Python
 .. |Ruby| image:: https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby
@@ -101,6 +108,8 @@ I'd rather not use:
    :alt: Rust
 .. |Shell| image:: https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white
    :alt: Shell (preferably fish but I can use bash)
+.. |TypeScript| image:: https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript
+   :alt: TypeScript
 .. |VSCode| image:: https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code
    :alt: Visual Studio Code
 
@@ -109,13 +118,13 @@ Preferred tools
 
 Operating system: |rt-Fedora|_, but I can use most other distros and Windows without issue.
 
-Desktop Environment: |rt-GNOME|_ under X11 (for NVidia support).
+Desktop Environment: |rt-GNOME|_ under Wayland.
 
 Editor: |rt-Neovim|_ (default), |rt-VSCode|_ (web development).
 
 Browser: |rt-Firefox|_ (default), |rt-Brave|_ (if needed).
 
-Shell: `fish <https://fishshell.com/>`_ (interactive), `zsh <https://www.zsh.org/>`_ (login & compatibility).
+Shell: `fish <https://fishshell.com/>`_, `zsh <https://www.zsh.org/>`_ (compatibility).
 
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
@@ -158,6 +167,7 @@ I'm around on the internet.
 |My-Discord|
 |My-GitHub|_
 |My-GitLab|_
+|My-Keybase|_
 |My-Twitch|_
 |My-Twitter|_
 
@@ -169,6 +179,9 @@ I'm around on the internet.
 .. |My-GitLab| image:: https://img.shields.io/badge/-YaBoiBurner-black?style=flat-square&logo=gitlab
    :alt: GitLab: @YaBoiBurner
 .. _My-GitLab: https://gitlab.com/YaBoiBurner
+.. |My-Keybase| image:: https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase
+   :alt: Keybase: @yaboiburner
+.. _My-Keybase: https://keybase.io/yaboiburner
 .. |My-Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
    :alt: Twitch: @jadenpleasants
 .. _My-Twitch: https://www.twitch.tv/jadenpleasants
