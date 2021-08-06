@@ -174,8 +174,8 @@ I'm around on the internet.
 |My-Twitch|_
 |My-Twitter|_
 
-.. |My-Discord| image:: https://img.shields.io/badge/-YaBoiBurner%234564-black?style=flat-square&logo=discord
-   :alt: Discord: YaBoiBurner#4564
+.. |My-Discord| image:: https://img.shields.io/badge/-YaBoiBurner%230001-black?style=flat-square&logo=discord
+   :alt: Discord: YaBoiBurner#0001
 .. |My-GitHub| image:: https://img.shields.io/badge/-YaBoiBurner-181717?style=flat-square&logo=github
    :alt: GitHub: @YaBoiBurner
 .. _My-GitHub: https://github.com/YaBoiBurner
@@ -185,8 +185,8 @@ I'm around on the internet.
 .. |My-Keybase| image:: https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase
    :alt: Keybase: @yaboiburner
 .. _My-Keybase: https://keybase.io/yaboiburner
-.. |My-Twitch| image:: https://img.shields.io/badge/-jadenpleasants-9146FF?style=flat-square&logo=twitch&logoColor=white
-   :alt: Twitch: @jadenpleasants
+.. |My-Twitch| image:: https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white
+   :alt: Twitch: @burnerstwitch
 .. _My-Twitch: https://www.twitch.tv/jadenpleasants
 .. |My-Twitter| image:: https://img.shields.io/badge/-YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&logoColor=white
    :alt: Twitter: @YaBoiBurner
