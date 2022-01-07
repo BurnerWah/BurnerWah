@@ -127,7 +127,7 @@ Editor: |rt-Neovim|_ (default), |rt-VSCode|_ (web development).
 
 Browser: |rt-Firefox|_ (default), |rt-Brave|_ (if needed).
 
-Shell: `fish <https://fishshell.com/>`_, `zsh <https://www.zsh.org/>`_ (compatibility).
+Shell: `fish <https://fishshell.com/>`_.
 
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
@@ -174,8 +174,8 @@ I'm around on the internet.
 |My-Twitch|_
 |My-Twitter|_
 
-.. |My-Discord| image:: https://img.shields.io/badge/-YaBoiBurner%230001-black?style=flat-square&logo=discord
-   :alt: Discord: YaBoiBurner#0001
+.. |My-Discord| image:: https://img.shields.io/badge/-Burner%235817-black?style=flat-square&logo=discord
+   :alt: Discord: Burner#5817
 .. |My-GitHub| image:: https://img.shields.io/badge/-YaBoiBurner-181717?style=flat-square&logo=github
    :alt: GitHub: @YaBoiBurner
 .. _My-GitHub: https://github.com/YaBoiBurner
