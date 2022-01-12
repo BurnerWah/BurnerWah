@@ -125,18 +125,14 @@ Desktop Environment: |rt-GNOME|_ under Wayland.
 
 Editor: |rt-Neovim|_ (default), |rt-VSCode|_ (web development).
 
-Browser: |rt-Firefox|_ (default), |rt-Brave|_ (if needed).
+Browser: |rt-Firefox|_
 
-Shell: `fish <https://fishshell.com/>`_.
+Shell: `fish <https://fishshell.com/>`_
 
 Terminal emulator: `Kitty <https://github.com/kovidgoyal/kitty>`_
 
 Code style: |rt-Prettier|_
 
-.. |rt-Brave| replace:: |ic-Brave| Brave
-.. _rt-Brave: https://brave.com/
-.. |ic-Brave| image:: assets/simpleicons/brave.svg
-   :height: 12px
 .. |rt-Fedora| replace:: |ic-Fedora| Fedora
 .. _rt-Fedora: https://getfedora.org/
 .. |ic-Fedora| image:: assets/simpleicons/fedora.svg
