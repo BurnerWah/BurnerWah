@@ -184,6 +184,6 @@ I'm around on the internet.
 .. |My-Twitch| image:: https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white
    :alt: Twitch: @burnerstwitch
 .. _My-Twitch: https://www.twitch.tv/jadenpleasants
-.. |My-Twitter| image:: https://img.shields.io/badge/-YaBoiBurner-1DA1F2?style=flat-square&logo=twitter&logoColor=white
-   :alt: Twitter: @YaBoiBurner
-.. _My-Twitter: https://twitter.com/YaBoiBurner
+.. |My-Twitter| image:: https://img.shields.io/badge/-BurnerWah-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+   :alt: Twitter: @BurnerWah
+.. _My-Twitter: https://twitter.com/BurnerWah
