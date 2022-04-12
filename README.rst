@@ -123,7 +123,7 @@ Operating system: |rt-Fedora|_, but I can use most other distros and Windows wit
 
 Desktop Environment: |rt-GNOME|_ under Wayland.
 
-Editor: |rt-Neovim|_ (default), |rt-VSCode|_ (web development).
+Editor: |rt-Neovim|_, |rt-VSCode|_.
 
 Browser: |rt-Firefox|_
 
