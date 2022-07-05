@@ -21,25 +21,25 @@ Technologies
 
 I'm comfortable with:
 
-.. image:: https://skillicons.dev/icons?perline=4&i=js,html,css,ts,neovim,vscode,vim,idea,git,bash,cloudflare,github,md,lua,java,linux,nodejs,workers,regex
+.. image:: https://skillicons.dev/icons?perline=6&i=js,html,css,ts,neovim,vscode,vim,idea,git,bash,cloudflare,github,md,lua,java,linux,nodejs,workers,regex
    :alt: My Skills
    :target: https://skillicons.dev/
 
 I'm somewhat comfortable with:
 
-.. image:: https://skillicons.dev/icons?perline=4&i=androidstudio,gitlab,mysql,py,visualstudio,unity,jquery,php,bootstrap
+.. image:: https://skillicons.dev/icons?perline=6&i=androidstudio,gitlab,mysql,py,visualstudio,unity,jquery,php,bootstrap
    :alt: My Skills
    :target: https://skillicons.dev/
 
 I'm learning:
 
-.. image:: https://skillicons.dev/icons?perline=4&i=aws,azure,bots,cs,deno,docker,dotnet,go,gradle,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,vercel,vite,vue
+.. image:: https://skillicons.dev/icons?perline=6&i=aws,azure,bots,cs,deno,docker,dotnet,go,gradle,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,vercel,vite,vue
    :alt: My Skills
    :target: https://skillicons.dev/
 
 I'd rather not use:
 
-.. image:: https://skillicons.dev/icons?perline=4&i=cpp,perl
+.. image:: https://skillicons.dev/icons?perline=6&i=cpp,perl
    :alt: Really not my skills
    :target: https://skillicons.dev/
 
