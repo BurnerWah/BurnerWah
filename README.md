@@ -22,11 +22,11 @@ I'm somewhat comfortable with:
 
 I'm learning:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=aws,azure,bots,cs,deno,docker,dotnet,go,gradle,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,vercel,vite,vue)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,vercel,vite,vue)](https://skillicons.dev/)
 
 I'd rather not use:
 
-[![Really not my skills](https://skillicons.dev/icons?perline=6&i=cpp,perl,perl,perl,perl,perl)](https://skillicons.dev/)
+[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,perl,perl)](https://skillicons.dev/)
 
 ## Preferred tools
 
@@ -56,7 +56,7 @@ Code style:
 
 ![Discord: Burner#5817](https://img.shields.io/badge/-Burner%235817-black?style=flat-square&logo=discord)
 [![Github: @YaBoiBurner](https://img.shields.io/badge/-YaBoiBurner-181717?style=flat-square&logo=github)](https://github.com/YaBoiBurner)
-[![Gitlab: @YaBoiBurner](https://img.shields.io/badge/-YaBoiBurner-black?style=flat-square&logo=gitlab)](https://gitlab.com/YaBoiBurner)
+[![Gitlab: @BurnerWah](https://img.shields.io/badge/-BurnerWah-black?style=flat-square&logo=gitlab)](https://gitlab.com/BurnerWah)
 [![Keybase: @yaboiburner](https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase)](https://keybase.io/yaboiburner)
 [![Twitch: @burnerstwitch](https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerstwitch)
 [![Twitter: @BurnerWah](https://img.shields.io/badge/-BurnerWah-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BurnerWah)
