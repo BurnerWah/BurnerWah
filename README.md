@@ -18,15 +18,15 @@ I'm comfortable with:
 
 I'm somewhat comfortable with:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=androidstudio,gitlab,mysql,py,visualstudio,unity,jquery,php,bootstrap)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=androidstudio,githubactions,gitlab,mysql,py,visualstudio,unity,jquery,php,bootstrap)](https://skillicons.dev/)
 
 I'm learning:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,vercel,vite,vue)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,svelte,vercel,vite,vue)](https://skillicons.dev/)
 
 I'd rather not use:
 
-[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,perl,perl)](https://skillicons.dev/)
+[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,perl,nextjs)](https://skillicons.dev/)
 
 ## Preferred tools
 
