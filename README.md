@@ -6,9 +6,8 @@ I'm Jaden. I like writing code & working with linux.
 
 ## Stats
 
-[![Jaden's github stats](https://github-readme-stats.vercel.app/api?username=YaBoiBurner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaBoiBurner&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaden's github stats](https://github-readme-stats.vercel.app/api?username=YaBoiBurner&show_icons=true&theme=radical&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaBoiBurner&layout=compact&langs_count=8&theme=radical&exclude_repo=CIS-350-Assignment-5A,CIS-350-Assignment-5B,CIS-350-Assgnment-6,&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
