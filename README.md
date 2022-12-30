@@ -6,8 +6,8 @@ I'm Jaden. I like writing code & working with linux.
 
 ## Stats
 
-[![Jaden's github stats](https://github-readme-stats.vercel.app/api?username=YaBoiBurner&show_icons=true&theme=radical&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaBoiBurner&layout=compact&langs_count=8&theme=radical&exclude_repo=CIS-350-Assignment-5A,CIS-350-Assignment-5B,CIS-350-Assgnment-6,&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaden's github stats](https://github-readme-stats.vercel.app/api?username=BurnerWah&show_icons=true&theme=radical&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurnerWah&layout=compact&langs_count=8&theme=radical&exclude_repo=CIS-350-Assignment-5A,CIS-350-Assignment-5B,CIS-350-Assgnment-6,&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
@@ -54,7 +54,7 @@ Code style:
 ## Where you can find me
 
 ![Discord: Burner#5817](https://img.shields.io/badge/-Burner%235817-black?style=flat-square&logo=discord)
-[![Github: @YaBoiBurner](https://img.shields.io/badge/-YaBoiBurner-181717?style=flat-square&logo=github)](https://github.com/YaBoiBurner)
+[![Github: @BurnerWah](https://img.shields.io/badge/-BurnerWah-181717?style=flat-square&logo=github)](https://github.com/BurnerWah)
 [![Gitlab: @BurnerWah](https://img.shields.io/badge/-BurnerWah-black?style=flat-square&logo=gitlab)](https://gitlab.com/BurnerWah)
 [![Keybase: @yaboiburner](https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase)](https://keybase.io/yaboiburner)
 [![Twitch: @burnerstwitch](https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerstwitch)
