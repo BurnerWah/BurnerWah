@@ -59,3 +59,6 @@ Code style:
 [![Keybase: @yaboiburner](https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase)](https://keybase.io/yaboiburner)
 [![Twitch: @burnerstwitch](https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerstwitch)
 [![Twitter: @BurnerWah](https://img.shields.io/badge/-BurnerWah-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BurnerWah)
+
+<!-- rel=me thingy that might work? -->
+<link href="https://en.pronouns.page/@Burner" rel="me"/>
