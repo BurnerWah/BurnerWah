@@ -61,4 +61,4 @@ Code style:
 [![Twitter: @BurnerWah](https://img.shields.io/badge/-BurnerWah-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BurnerWah)
 
 <!-- rel=me thingy that might work? -->
-<a href="https://en.pronouns.page/@Burner" rel="me"/>
+<a href="https://en.pronouns.page/@Burner" rel="me nofollow"/>
