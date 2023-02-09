@@ -56,6 +56,4 @@ Code style:
 ![Discord: Burner#5817](https://img.shields.io/badge/-Burner%235817-black?style=flat-square&logo=discord)
 [![Github: @BurnerWah](https://img.shields.io/badge/-BurnerWah-181717?style=flat-square&logo=github)](https://github.com/BurnerWah)
 [![Gitlab: @BurnerWah](https://img.shields.io/badge/-BurnerWah-black?style=flat-square&logo=gitlab)](https://gitlab.com/BurnerWah)
-[![Keybase: @yaboiburner](https://img.shields.io/badge/-YaBoiBurner-000000?style=flat-square&logo=keybase)](https://keybase.io/yaboiburner)
 [![Twitch: @burnerstwitch](https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerstwitch)
-[![Twitter: @BurnerWah](https://img.shields.io/badge/-BurnerWah-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BurnerWah)
