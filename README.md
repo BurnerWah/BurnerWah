@@ -21,7 +21,7 @@ I'm somewhat comfortable with:
 
 I'm learning:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,svelte,vercel,vite,vue)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,svelte,vercel,vite,vue,firebase,gcp)](https://skillicons.dev/)
 
 I'd rather not use:
 
@@ -53,7 +53,6 @@ Code style:
 
 ## Where you can find me
 
-![Discord: Burner#5817](https://img.shields.io/badge/-Burner%235817-black?style=flat-square&logo=discord)
 [![Github: @BurnerWah](https://img.shields.io/badge/-BurnerWah-181717?style=flat-square&logo=github)](https://github.com/BurnerWah)
 [![Gitlab: @BurnerWah](https://img.shields.io/badge/-BurnerWah-black?style=flat-square&logo=gitlab)](https://gitlab.com/BurnerWah)
-[![Twitch: @burnerstwitch](https://img.shields.io/badge/-burnerstwitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerstwitch)
+[![Twitch: @burnerwah](https://img.shields.io/badge/-burnerwah-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/burnerwah)
