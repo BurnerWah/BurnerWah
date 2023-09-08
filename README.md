@@ -21,11 +21,11 @@ I'm somewhat comfortable with:
 
 I'm learning:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,rust,svelte,vercel,vite,vue,firebase,gcp)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,svelte,vercel,vite,vue,firebase,gcp)](https://skillicons.dev/)
 
 I'd rather not use:
 
-[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,perl,nextjs)](https://skillicons.dev/)
+[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,nextjs,rust)](https://skillicons.dev/)
 
 ## Preferred tools
 
