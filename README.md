@@ -25,7 +25,7 @@ I'm learning:
 
 I'd rather not use:
 
-[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,scala,nim,nextjs,rust)](https://skillicons.dev/)
+[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,nextjs,rust)](https://skillicons.dev/)
 
 ## Preferred tools
 
