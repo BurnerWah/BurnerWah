@@ -11,35 +11,50 @@ I'm Jaden. I like writing code & working with linux.
 
 ## Technologies
 
-I'm comfortable with:
+Frontend:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=js,html,css,ts,neovim,vscode,vim,idea,git,bash,cloudflare,github,md,lua,java,linux,nodejs,workers,regex)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,jquery,js,materialui,react,redux,tailwind,ts&perline=5)](https://skillicons.dev)
 
-I'm somewhat comfortable with:
+Backend:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=androidstudio,githubactions,gitlab,mysql,py,visualstudio,unity,jquery,php,bootstrap)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,cs,dotnet,express,nodejs,workers)](https://skillicons.dev)
 
-I'm learning:
+Databases:
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=astro,aws,azure,bots,cs,cpp,deno,docker,dotnet,go,gradle,jest,kotlin,latex,netlify,nuxtjs,raspberrypi,react,ruby,svelte,vercel,vite,vue,firebase,gcp)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-I'd rather not use:
+DevOps:
 
-[![Really not my skills](https://skillicons.dev/icons?perline=6&i=perl,perl,perl,perl,nextjs,rust)](https://skillicons.dev/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vite,vitest)](https://skillicons.dev)
+
+Programs:
+
+[![My Skills](https://skillicons.dev/icons?i=atom,androidstudio,figma,idea,neovim,postman,unity,vim,visualstudio,vscode&perline=5)](https://skillicons.dev)
+
+Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,css,html,java,js,lua,md,php,py,react,ts&perline=6)](https://skillicons.dev)
+
+Other:
+
+[![My Skills](https://skillicons.dev/icons?i=latex,linux,regex)](https://skillicons.dev)
+
+Want to learn:
+
+[![My Skills](https://skillicons.dev/icons?i=astro,aws,azure,blender,dart,deno,docker,firebase,gcp,gitlab,go,heroku,jest,kotlin,netlify,nextjs,nginx,nuxtjs,powershell,redis,remix,ruby,svelte,swift,vercel,vue,zig&perline=9)](https://skillicons.dev)
 
 ## Preferred tools
 
 Operating system:
 [<img width="12px" src="assets/simpleicons/fedora.svg"/> Fedora](https://getfedora.org/),
-but I can use most other distros and Windows without issue.
+but I can use most other distros, Mac OS, and Windows without issue.
 
 Desktop environment:
 [<img width="12px" src="assets/simpleicons/gnome.svg"/> GNOME](https://www.gnome.org/)
 under Wayland
 
 Editor:
-[<img width="12px" src="assets/simpleicons/visualstudiocode.svg"/> VSCode](https://code.visualstudio.com/),
-[<img width="12px" src="assets/simpleicons/neovim.svg"/> Neovim](https://neovim.io/)
+[<img width="12px" src="assets/simpleicons/visualstudiocode.svg"/> VSCode](https://code.visualstudio.com/)
 
 Browser:
 [<img width="12px" src="assets/simpleicons/firefoxbrowser.svg"/> Firefox](https://www.mozilla.org/en-US/firefox/new/)
