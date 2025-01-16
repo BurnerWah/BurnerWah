@@ -13,35 +13,35 @@ I'm Jaden. I like writing code & working with linux.
 
 Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,jquery,js,materialui,react,redux,tailwind,ts&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,jquery,js,materialui,react,redux,sass,tailwind,ts&perline=6)](https://skillicons.dev)
 
 Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,cs,dotnet,express,nodejs,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,cs,deno,dotnet,express,heroku,nodejs,redhat,workers&perline=5)](https://skillicons.dev)
 
 Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 DevOps:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vite,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,git,github,githubactions,gitlab,jest,npm,rollupjs,vite,vitest&perline=5)](https://skillicons.dev)
 
 Programs:
 
-[![My Skills](https://skillicons.dev/icons?i=atom,androidstudio,figma,idea,neovim,postman,unity,vim,visualstudio,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,figma,idea,neovim,notion,obsidian,postman,ps,sublime,unity,vim,visualstudio,vscode,vscodium&perline=5)](https://skillicons.dev)
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,cs,css,html,java,js,lua,md,php,py,react,ts&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,bash,cpp,cs,css,go,html,java,js,kotlin,lua,md,php,py,react,rust,ts&perline=6)](https://skillicons.dev)
 
 Other:
 
-[![My Skills](https://skillicons.dev/icons?i=latex,linux,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,apple,docker,latex,linux,regex,windows)](https://skillicons.dev)
 
 Want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=astro,aws,azure,blender,dart,deno,docker,firebase,gcp,gitlab,go,heroku,jest,kotlin,netlify,nextjs,nginx,nuxtjs,powershell,redis,remix,ruby,svelte,swift,vercel,vue,zig&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,blender,dart,firebase,gcp,kubernetes,netlify,nextjs,nginx,nuxtjs,powershell,redis,remix,ruby,svelte,swift,vercel,vue,zig&perline=7)](https://skillicons.dev)
 
 ## Preferred tools
 
